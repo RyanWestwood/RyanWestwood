@@ -1,6 +1,6 @@
 <p align="right">
    <a href="https://open.spotify.com/user/aquizzie" target="notarget">
-    <img src="https://now-playing-jade.vercel.app/api/spotify" width="350" height="128" alt="Now Playing" align="right"></img>
+    <img src="https://now-playing-jade.vercel.app/api/spotify" width="256" height="64" alt="Now Playing" align="right"></img>
   </a>
 </p>
 
