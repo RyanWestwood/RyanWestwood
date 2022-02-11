@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Game Developer from Birmingham</h3>
 
-<p align="right">
+<p align="center">
    <a href="https://open.spotify.com/user/aquizzie" target="notarget">
-    <img src="https://now-playing-jade.vercel.app/api/spotify" width="256" height="64" alt="Now Playing" align="right"></img>
+    <img src="https://now-playing-jade.vercel.app/api/spotify" width="256" height="64" alt="Now Playing" align="center"></img>
   </a>
 </p>
-
-
-<h5> I always have a song on in the background</h5>
 
 <h3 align="left">Connect with me:</h3>
 
